@@ -1,0 +1,31 @@
+channel_used,customer_segment,count
+Email,Fashionistas,6784
+Email,Foodies,6828
+Email,Health & Wellness,6576
+Email,Outdoor Adventurers,6673
+Email,Tech Enthusiasts,6738
+Facebook,Fashionistas,6487
+Facebook,Foodies,6618
+Facebook,Health & Wellness,6590
+Facebook,Outdoor Adventurers,6508
+Facebook,Tech Enthusiasts,6616
+Google Ads,Fashionistas,6717
+Google Ads,Foodies,6746
+Google Ads,Health & Wellness,6705
+Google Ads,Outdoor Adventurers,6647
+Google Ads,Tech Enthusiasts,6623
+Instagram,Fashionistas,6593
+Instagram,Foodies,6688
+Instagram,Health & Wellness,6658
+Instagram,Outdoor Adventurers,6744
+Instagram,Tech Enthusiasts,6709
+Website,Fashionistas,6560
+Website,Foodies,6698
+Website,Health & Wellness,6554
+Website,Outdoor Adventurers,6748
+Website,Tech Enthusiasts,6800
+YouTube,Fashionistas,6601
+YouTube,Foodies,6630
+YouTube,Health & Wellness,6805
+YouTube,Outdoor Adventurers,6691
+YouTube,Tech Enthusiasts,6665
